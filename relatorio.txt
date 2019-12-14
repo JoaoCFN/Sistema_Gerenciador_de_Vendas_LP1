@@ -1,0 +1,94 @@
+ 
+------------------------------------------------ 
+                   Domingo  Segunda  Terca    Quarta   Quinta   Sexta    Sabado   
+Farinha               1        2        3        4        5        6        7
+Arroz                 7        6        5        4        3        2        1
+Feijao                0        0        0        0        0        0        0
+Frango                1        1        1        1        1        1        1
+Carne                 1        2        1        2        1        2        1
+Sabonete              3        4        3        4        3        4        3
+Escova                1        2        3        4        5        6        7
+Pasta                 7        6        5        4        3        2        1
+Shampoo               1        1        1        1        1        1        1
+Condicionador         0        1        0        1        0        1        0
+
+------------------------------------------------ 
+
+Farinha        7.60 
+
+Arroz          3.20 
+
+Feijao         3.90 
+
+Frango         12.00 
+
+Carne          16.00 
+
+Sabonete       0.45 
+
+Escova         3.90 
+
+Pasta          2.50 
+
+Shampoo        13.00 
+
+Condicionador  14.00 
+
+------------------------------------------------ 
+Total de Vendas Por Dia (Em Unidade)
+Domingo  Segunda  Terca    Quarta   Quinta   Sexta    Sabado   
+   22       25       22       25       22       25       22    
+------------------------------------------------ 
+Total de Vendas Por Dia (Em Reais) 
+Domingo    Segunda    Terca      Quarta     Quinta     Sexta      Sabado     
+ 93.75     130.00     105.35     141.60     116.95     153.20     128.55    
+------------------------------------------------ 
+Total de Vendas Por Produto (Em Unidade) 
+Farinha        28 
+Arroz          28 
+Feijao         0 
+Frango         7 
+Carne          10 
+Sabonete       24 
+Escova         28 
+Pasta          28 
+Shampoo        7 
+Condicionador  3 
+ 
+------------------------------------------------ 
+Total de Vendas Por Produto (Em reais) 
+Farinha        212.80 
+Arroz          89.60 
+Feijao         0.00 
+Frango         84.00 
+Carne          160.00 
+Sabonete       10.80 
+Escova         109.20 
+Pasta          70.00 
+Shampoo        91.00 
+Condicionador  42.00 
+ 
+------------------------------------------------ 
+Total das Vendas (Em unidade): 163 
+------------------------------------------------ 
+Total das Vendas (Em reais): 869.40 
+------------------------------------------------ 
+Produto que mais vendeu (em unidade)
+Farinha        28 
+Arroz          28 
+Escova         28 
+Pasta          28 
+
+------------------------------------------------ 
+Produto que mais vendeu (em reais)
+Farinha        R$212.80 
+
+------------------------------------------------ 
+Produto que mais vendeu (em unidade)
+Feijao         0 
+
+------------------------------------------------ 
+Produto que mais vendeu (em reais)
+Feijao         R$0.00 
+
+------------------------------------------------ 
