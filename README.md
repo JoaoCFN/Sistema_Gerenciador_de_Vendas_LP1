@@ -51,14 +51,14 @@ partir do produto escolhido pelo usuário
 
 8. Gere um relatório de saída (saída.txt), contendo as seguintes informações:
 
-  a. Tabela com dados de venda e preço dos produtos
+      a. Tabela com dados de venda e preço dos produtos
   
-  b. Total (em unidades e em reais) de vendas por dia
+      b. Total (em unidades e em reais) de vendas por dia
   
-  c. Total (em unidades e em reais) de vendas por produto
+      c. Total (em unidades e em reais) de vendas por produto
   
-  d. Total (em unidades e em reais) das vendas
+      d. Total (em unidades e em reais) das vendas
   
-  e. Produto que mais vendeu (em unidades e em reais) na semana
+      e. Produto que mais vendeu (em unidades e em reais) na semana
   
-  f. Produto que menos vendeu (em unidades e em reais) na semana
+      f. Produto que menos vendeu (em unidades e em reais) na semana
